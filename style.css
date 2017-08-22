@@ -1,0 +1,56 @@
+/* 
+    Created on : 16 Jul, 2017, 7:13:27 PM
+    Author     : snehil
+*/
+
+#banner_image {
+    padding-top: 75px;
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url("images/intro-bg_1.jpg") no-repeat center;
+    background-size: cover;
+    margin-bottom: 40px;
+}
+
+#banner_content {
+    position: relative;
+    padding-top: 8%;
+    padding-bottom: 8%;
+    margin-top: 12%;
+    margin-bottom: 12%;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 660px;
+}
+
+footer {
+    position: fixed;
+    padding-top: 10px;
+    background-color: #101010;
+    color: #9d9d9d;
+    bottom: 0;
+    width: 100%;
+}
+
+.caption {
+    text-align: center;
+}
+
+.jumbotron {
+    margin-top: 80px;
+    background-color: transparent;
+}
+
+#jumbo {
+    padding-top: 7%;
+}
+
+.thumbnail {
+    padding: 20px;
+}
+
+.products {
+    margin-bottom: 70px; 
+}
+
+
